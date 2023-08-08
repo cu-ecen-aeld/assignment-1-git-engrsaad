@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ubuntu",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/9jjTsWHUQpAjosOdEVrXHtnhWXmPFjvdnuxPzsiJuc3JFk5TZc",
+  "gitHubUrl": "https://github.com/cu-ecen-aeld/assignment-1-git-engrsaad",
+  "workFolder": "_work"
+}
